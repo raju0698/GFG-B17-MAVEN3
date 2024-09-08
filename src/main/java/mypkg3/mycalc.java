@@ -21,7 +21,10 @@ public class mycalc {
 	{
 		return a%b;
 	}
-
+    public void show()
+    {
+    	System.out.println("GFG Show Function");
+    }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      mycalc calc = new mycalc();
@@ -31,6 +34,7 @@ public class mycalc {
      System.out.println("div is : "+ calc.div(20, 10));
      System.out.println("rem is : "+ calc.remainder(20, 10));
      System.out.println("div is : "+ calc.div(30, 10));
+	 calc.show();
 	}
 
 }
