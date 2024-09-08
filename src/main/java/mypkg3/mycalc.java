@@ -30,6 +30,7 @@ public class mycalc {
      System.out.println("mul is : "+ calc.mul(20, 10)); 
      System.out.println("div is : "+ calc.div(20, 10));
      System.out.println("rem is : "+ calc.remainder(20, 10));
+     System.out.println("div is : "+ calc.div(30, 10));
 	}
 
 }
