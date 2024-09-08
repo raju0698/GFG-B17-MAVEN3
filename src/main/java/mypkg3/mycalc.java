@@ -35,6 +35,7 @@ public class mycalc {
      System.out.println("rem is : "+ calc.remainder(20, 10));
      System.out.println("div is : "+ calc.div(30, 10));
 	 calc.show();
+	 System.out.println("sum is : "+ calc.sum(120, 10));
 	}
 
 }
