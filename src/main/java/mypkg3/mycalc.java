@@ -23,7 +23,7 @@ public class mycalc {
 	}
     public void show()
     {
-    	System.out.println("GFG Show Function");
+    	System.out.println("GFG Show Function!!");
     }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
