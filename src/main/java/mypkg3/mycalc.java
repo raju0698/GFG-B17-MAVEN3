@@ -46,6 +46,5 @@ public class mycalc {
 	 System.out.println("sum is : "+ calc.sum(120, 10));
 	 System.out.println("diff is : "+ calc.diff(10, 10));
 	 calc.hello();
-	}
-
+	 calc.test();
 }
