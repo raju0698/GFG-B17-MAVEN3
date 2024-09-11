@@ -26,5 +26,5 @@ jobs:
       with:
         image: raju0698/gfg-b17-githubactions-3
         registry: docker.io
-        username: raju0698
-        password: raju0698
+        username: ${{ secrets.raju0698 }}
+        password: ${{ secrets.raju0698 }}
