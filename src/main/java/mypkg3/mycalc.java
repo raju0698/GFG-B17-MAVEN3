@@ -29,6 +29,10 @@ public class mycalc {
     {
     	System.out.println("GFG Hello Function!!");
     }
+    public void test()
+    {
+    	System.out.println("Hello! Docker Container from Github Actions");
+    }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      mycalc calc = new mycalc();
